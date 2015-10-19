@@ -12,5 +12,29 @@
         facilisis odio eget libero fermentum, vel vulputate nulla convallis. Donec laoreet erat sed est varius, 
         non fringilla sem scelerisque.
     </p>
+    <hr />
+    <div class="container row">
+        <p class="col-sm-6">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris varius purus nec condimentum posuere. 
+            Etiam commodo justo a sapien egestas, sed tincidunt nulla venenatis. Nullam id leo libero. Integer 
+            semper sapien ac sapien malesuada, a accumsan magna tincidunt. Aenean dictum, nulla non vehicula 
+            dignissim, urna turpis pellentesque metus, at consequat mi mauris vel mauris. Nulla facilisi. In erat 
+            sapien, finibus et ultricies nec, auctor quis leo. Ut a tellus nec nisl luctus vehicula et sed nisi. 
+            Etiam sit amet orci tortor. Phasellus interdum lorem faucibus, tristique ipsum a, posuere urna. Morbi 
+            facilisis odio eget libero fermentum, vel vulputate nulla convallis. Donec laoreet erat sed est varius, 
+            non fringilla sem scelerisque.
+        </p>
+        <p class="col-sm-6">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris varius purus nec condimentum posuere. 
+            Etiam commodo justo a sapien egestas, sed tincidunt nulla venenatis. Nullam id leo libero. Integer 
+            semper sapien ac sapien malesuada, a accumsan magna tincidunt. Aenean dictum, nulla non vehicula 
+            dignissim, urna turpis pellentesque metus, at consequat mi mauris vel mauris. Nulla facilisi. In erat 
+            sapien, finibus et ultricies nec, auctor quis leo. Ut a tellus nec nisl luctus vehicula et sed nisi. 
+            Etiam sit amet orci tortor. Phasellus interdum lorem faucibus, tristique ipsum a, posuere urna. Morbi 
+            facilisis odio eget libero fermentum, vel vulputate nulla convallis. Donec laoreet erat sed est varius, 
+            non fringilla sem scelerisque.
+        </p>
+    </div>
+    
 </asp:Content>
 
